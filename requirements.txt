@@ -1,0 +1,16 @@
+PyMuPDF == 1.24.7
+transformers == 4.42.3
+torch == 2.3.1
+numpy == 1.26.4
+tensorflow == 2.16.2
+transformers == 4.42.3
+openai == 1.35.7
+nltk == 3.8.1
+spacy == 3.7.5
+sentence-transformers == 3.0.1
+fastapi == 0.111.0
+faiss-cpu == 1.8.0.post1
+llama-index-llms-groq == 0.1.4
+pyyaml == 6.0.1
+BeautifulSoup4 == 4.12.3
+tf-keras == 2.16.2
